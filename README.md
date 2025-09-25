@@ -17,6 +17,8 @@ Our LTR-SAA subset construction module is fully plug-and-play: it introduces no 
    
 
 ### Install    
+Prior to executing the program, decompress the archive "code for paper.zip" to access the core code directory "rethink_exp."
+
 Prior to running this benchmark, you could install this package locally using:    
 ```
 pip install -e .
@@ -27,7 +29,7 @@ For the dataset, we recommend using the curated "data.zip" from previous benchma
 
 ### Run of Experiment
 
-Our experimental file is:  ```code for paper/rethink_exp/test programing.py```. After running it with a compatible Python kernel, the terminal will prompt the experimenter to select the problem and DFL method for the experiment. This selection is implemented using Python's input command. Note that you must copy the content from the printed options without any extra characters; otherwise, the program will throw an error. A specific example is as follows:
+Our experimental file is:  ```./rethink_exp/test programing.py```. After running it with a compatible Python kernel, the terminal will prompt the experimenter to select the problem and DFL method for the experiment. This selection is implemented using Python's input command. Note that you must copy the content from the printed options without any extra characters; otherwise, the program will throw an error. A specific example is as follows:
 ![example](resource/figs/step1.png)
 ![example](resource/figs/step2.png)
 Subsequently, the training process will be executed automatically, with the training procedure visualized as follows:
