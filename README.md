@@ -17,14 +17,14 @@ Our LTR-SAA subset construction module is fully plug-and-play: it introduces no 
    
 
 ### Install    
-Prior to executing the program, decompress the archive "code for paper.zip" to access the core code directory "rethink_exp."
+Prior to executing the program, decompress the archive ```code for paper.zip```  to access the core code directory "rethink_exp."
 
 Prior to running this benchmark, you could install this package locally using:    
 ```
 pip install -e .
 ```
 ### Dataset
-For the dataset, we recommend using the curated "data.zip" from previous benchmark experiments. The access method is described in both the original paper and the appendix of this study. Simply place the zip file into the empty folder ```code for paper\rethink_exp\openpto\data``` to start the experiment.
+For the dataset, we recommend using the curated "data.zip" from previous benchmark experiments. The access method is described in both the original paper and the appendix of this study. Simply place the zip file into the empty folder ```.\rethink_exp\openpto\data``` to start the experiment.
 
 
 ### Run of Experiment
