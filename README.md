@@ -17,7 +17,7 @@ Our LTR-SAA subset construction module is fully plug-and-play: it introduces no 
    
 
 ### Install    
-Prior to executing the program, decompress the archive ```code for paper.zip```  to access the core code directory "rethink_exp."
+Prior to executing the program, decompress the archive ```code for paper.zip```  to access the core code directory ```rethink_exp.```
 
 Prior to running this benchmark, you could install this package locally using:    
 ```
