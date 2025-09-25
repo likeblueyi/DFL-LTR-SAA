@@ -37,4 +37,5 @@ Subsequently, the training process will be executed automatically, with the trai
 
 After training is completed, the system will output the final test results, which will be recorded in log.txt. The following is an example using our SOTA method on the Knapsack (Gen) problem:
 ![example](resource/figs/step5.png)
+
 During the review stage, we only make some problems and methods publicly available. Your understanding is appreciated. However, it should be noted that all our SOTA methods are available for experimentation, and users can conduct experiments independently to compare results with those in the original benchmark paper.
