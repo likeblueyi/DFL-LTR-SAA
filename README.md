@@ -12,8 +12,8 @@ Our LTR-SAA subset construction module is fully plug-and-play: it introduces no 
 ![example](resource/figs/idea.png)
 
 
-
-
+###  Anonymity Statement
+The experiments in this study are conducted based on the benchmark work by Geng et al. (NeurIPS, 2024) (cited in the main text), and their open-source source code is utilized. It should be noted that any comments and author-related information that may exist in the code belong to the original authors such as Geng et al. (NeurIPS, 2024), and are unrelated to our research team. Furthermore, we have conducted a detailed review of the used code to make every effort to ensure that no original author identity information is retained. 
    
 
 ### Install    
