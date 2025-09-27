@@ -49,12 +49,7 @@ def do_setup():
         # dependencies
         packages=find_packages(),
         keywords=["AI", "CO"],
-        # Github repo
         url="",
-        # author name
-        author="Haoyu Geng",
-        # mail address
-        author_email="genghaoyu98@sjtu.edu.cn",
         classifiers=[
             "Programming Language :: Python :: 3.7",
             "Programming Language :: Python :: 3.8",
