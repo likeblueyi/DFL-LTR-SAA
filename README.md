@@ -30,12 +30,16 @@ For the dataset, we recommend using the curated "data.zip" from previous benchma
 ### Run of Experiment
 
 Our experimental file is:  ```./rethink_exp/test programing.py```. After running it with a compatible Python kernel, the terminal will prompt the experimenter to select the problem and DFL method for the experiment. This selection is implemented using Python's input command. Note that you must copy the content from the printed options without any extra characters; otherwise, the program will throw an error. A specific example is as follows:
+
 ![example](resource/figs/step1.png)
 ![example](resource/figs/step2.png)
+
 Subsequently, the training process will be executed automatically, with the training procedure visualized as follows:
+
 ![example](resource/figs/step3.png)
 
 After training is completed, the system will output the final test results, which will be recorded in log.txt. The following is an example using our SOTA method on the Knapsack (Gen) problem:
+
 ![example](resource/figs/step5.png)
 
 During the review stage, we only make some problems and methods publicly available. Your understanding is appreciated. However, it should be noted that all our SOTA methods are available for experimentation, and users can conduct experiments independently to compare results with those in the original benchmark paper.
